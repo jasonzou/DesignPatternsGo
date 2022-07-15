@@ -3,6 +3,7 @@
 - Creational design patterns
 - Structual design patterns
 - Behavioural design patterns
+- Concurrent design patterns
 
 ## Creational design patterns
 
@@ -63,3 +64,24 @@ Encapsulates an algorithm inside a class
 Defer the exact steps of an algorithm to a subclass
 - Visitor
 Defines a new operation to a class without change
+
+## Concurrent design patterns
+
+- Active Object
+- Balking
+- Binding properties
+- Compute kernel
+- Double-checked locking
+- Event-based asynchronous
+- Guarded suspension
+- Join
+- Lock
+- Messaging design pattern (MDP)
+- Monitor object
+- Reactor
+- Read-write lock
+- Scheduler
+- Thread pool
+- Thread-specific storage
+- Safe Concurrency with Exclusive Ownership
+- CPU atomic operation
